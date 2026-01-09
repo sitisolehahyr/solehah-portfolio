@@ -1,0 +1,7 @@
+.prose-custom h2 {
+  @apply text-3xl font-semibold;
+}
+
+.prose-custom p {
+  @apply text-base text-slate-600;
+}

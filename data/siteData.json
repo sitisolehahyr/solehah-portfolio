@@ -1,0 +1,397 @@
+{
+  "personal": {
+    "name": "Siti Solehah Yunita Rahmawati",
+    "title": "AI Engineer & Software Engineer",
+    "location": "Kuala Lumpur, Malaysia",
+    "email": "nitapradita4@gmail.com",
+    "tagline": "Building AI-powered solutions for real-world impact.",
+    "bio": "Hi, I’m Siti Solehah Yunita 👋\nI’m a Software Engineer with a strong interest in Artificial Intelligence, Machine Learning, and Deep Learning, driven by curiosity about how intelligent systems can meaningfully improve the way people work and live.\n\nMy journey sits at the intersection of engineering, data, and cloud technologies. I enjoy building systems end to end—starting from understanding real problems, structuring data, designing backend services and pipelines, and eventually turning them into AI-powered applications that people can rely on in real-world settings.\n\nIn my professional role, I work on cross-platform applications for iOS, Android, and Web, where I focus not only on writing clean, scalable code, but also on how technology can simplify workflows, reduce manual effort, and enable teams to work more effectively. I often integrate AI-driven features to help transform complex or repetitive processes into smoother, more efficient systems.\n\nBeyond my professional responsibilities, I believe that my contribution as an engineer should go beyond earning a salary. I care deeply about using my skills to create positive impact for society, which is why I’ve been involved in social innovation and sustainability projects. These include food waste reduction platforms and machine learning–based waste segregation systems, where technology is applied to address real environmental and community challenges.\n\nThese experiences have shaped how I approach engineering—thinking not just about performance and scalability, but also about purpose, responsibility, and long-term impact.\n\nFor me, technology is most meaningful when it is useful, scalable, and socially conscious. I’m continuously learning, experimenting, and growing—especially in the areas of AI, machine learning, and deep learning—and I hope to keep building systems that create value not only for businesses, but also for communities and society at large.\n\nI see technology as a tool for service—something that, when designed thoughtfully, can create lasting change beyond code.",
+    "resume": "/resume.pdf",
+    "socials": [
+      {
+        "label": "GitHub",
+        "href": "https://github.com/sitisolehahyr",
+        "icon": "github"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/your-link",
+        "icon": "linkedin"
+      },
+      {
+        "label": "Email",
+        "href": "mailto:nitapradita4@gmail.com",
+        "icon": "email"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "company": "Digital Marketing Solutions Asia Limited (DMSA)",
+      "role": "Software Engineer",
+      "start": "Nov 2025",
+      "end": "Present",
+      "location": "Cyberjaya, Selangor, MY · On-site",
+      "logo": "/assets/logo-dmsa.jpg",
+      "achievements": [
+        "Develop, maintain, and optimize cross-platform applications for iOS, Android, and Web to support internal operations and marketing campaign execution.",
+        "Build internal tools and systems that improve operational efficiency by ~40% compared to previous manual workflows.",
+        "Design and implement AI-powered features for campaign management, data processing, and decision-making.",
+        "Work on data broker systems and campaign management platforms to streamline marketing operations across regions.",
+        "Architect and deploy cloud-based solutions on AWS (Amplify, DynamoDB, AppSync) and support internal teams in adopting the platforms."
+      ],
+      "tech": [
+        "Swift (iOS)",
+        "React Native",
+        "React",
+        "Node.js",
+        "AWS Amplify",
+        "DynamoDB",
+        "AppSync",
+        "Cloud Platforms",
+        "AI Integration"
+      ]
+    },
+    {
+      "company": "AxionOne",
+      "role": "AI Engineer",
+      "start": "Aug 2023",
+      "end": "Aug 2024",
+      "location": "Remote",
+      "logo": "/assets/logo-axionone.png",
+      "achievements": [
+        "Designed a multi-tenant RAG pipeline that lifted answer accuracy to 79%+ for enterprise intelligence dashboards.",
+        "Automated CRM sentiment analysis with fine-tuned transformers, reducing manual QA hours by 35%.",
+        "Partnered with cross-functional teams to ship AI insights UI built with Next.js and Tailwind."
+      ],
+      "tech": [
+        "Python",
+        "LangChain",
+        "Next.js",
+        "Azure AI"
+      ]
+    },
+    {
+      "company": "Pandai Sdn Bhd",
+      "role": "Junior Software Engineer",
+      "start": "Mar 2025",
+      "end": "Nov 2025",
+      "location": "Kuala Lumpur, MY · Hybrid",
+      "logo": "/assets/logo-pandai.png",
+      "achievements": [
+        "Developed and maintained frontend (React.js) and backend (Node.js) features for Pandai’s education platform, including API creation and integration.",
+        "Built Askpbot, an AI-powered chatbot leveraging APIBuilder for dynamic question handling and real-time content delivery.",
+        "Designed and executed automated regression tests, reducing functional defects by 20%.",
+        "Integrated third-party APIs for content and analytics, optimizing backend services for faster data retrieval and smoother UX.",
+        "Collaborated in an Agile/Scrum environment (sprint planning, Git-based version control, and code reviews)."
+      ],
+      "tech": [
+        "React.js",
+        "Node.js",
+        "Python",
+        "SQL",
+        "LLMs",
+        "API Integration"
+      ]
+    },
+    {
+      "company": "Lifewood Data Technology Ltd.",
+      "role": "Data Annotator",
+      "start": "Feb 2025",
+      "end": "Nov 2025",
+      "location": "Kuala Lumpur, MY · On-site",
+      "logo": "/assets/logo-lifewood.png",
+      "achievements": [
+        "Prepared and validated 3D datasets for autonomous vehicle systems, including the Crown Project (traffic light labeling and object detection).",
+        "Promoted to Quality Control (QC) within three months for outstanding accuracy and performance.",
+        "Contributed to Malay transcript AI projects for voice assistants, ensuring high-quality Malay speech-to-text data.",
+        "Supported Chinese transcript labeling for food packaging recognition systems, enabling cross-lingual model training.",
+        "Maintained a 98% quality compliance rate through detailed annotation and rigorous QA processes."
+      ],
+      "tech": [
+        "3D Point Cloud Annotation",
+        "Image/Video Annotation",
+        "Quality Control",
+        "Data Preprocessing",
+        "Automation"
+      ]
+    },
+    {
+      "company": "Brandrev.ai",
+      "role": "AI Developer",
+      "start": "Dec 2024",
+      "end": "Apr 2025",
+      "location": "Singapore · Remote",
+      "logo": "/assets/logo-brandrev.png",
+      "achievements": [
+        "Contributed to 12 AI-driven projects focused on custom GenAI solutions and AI business readiness for B2B clients.",
+        "Helped build tailored AI applications that improved client decision-making and operational efficiency.",
+        "Supported delivery of solutions that drove a 20% increase in operational efficiency across multiple client projects.",
+        "Assisted with deploying AI business strategies that enhanced client capabilities and positioned them for sustained growth."
+      ],
+      "tech": [
+        "GenAI",
+        "LLMs",
+        "Python",
+        "APIs",
+        "Prompting"
+      ]
+    },
+    {
+      "company": "Outlier",
+      "role": "Math AI Trainer (Freelance)",
+      "start": "Sep 2024",
+      "end": "Nov 2024",
+      "location": "San Francisco, US · Remote",
+      "logo": "/assets/logo-outlier.png",
+      "achievements": [
+        "Trained and evaluated AI models for mathematical content with structured quality assurance and feedback.",
+        "Completed onboarding and skills assessments to qualify for project task assignments.",
+        "Provided performance evaluations to improve model accuracy and usefulness for math education."
+      ],
+      "tech": [
+        "Machine Learning",
+        "Evaluation",
+        "Mathematics",
+        "Quality Assurance"
+      ]
+    },
+    {
+      "company": "SCADA International",
+      "role": "Executive Assistant (Cyber Security Analyst)",
+      "start": "Sep 2024",
+      "end": "Sep 2024",
+      "location": "Kuala Lumpur, MY · Remote",
+      "logo": "/assets/logo-scadainternational.jpg",
+      "achievements": [
+        "Assessed and tracked compliance with NIST and ISO standards across cybersecurity protocols.",
+        "Analyzed compliance reports and developed data-driven insights to identify potential security risks.",
+        "Contributed to a data compliance framework aligned with ISO 27001 and NIST guidelines, improving security posture."
+      ],
+      "tech": [
+        "NIST",
+        "ISO 27001",
+        "Data Analysis",
+        "Risk Assessment"
+      ]
+    },
+    {
+      "company": "Chumbaka",
+      "role": "IoT Mentor & Event Organizer — Young Innovators Challenge 2024",
+      "start": "Apr 2024",
+      "end": "Sep 2024",
+      "location": "Alor Setar, Kedah, MY · On-site",
+      "logo": "/assets/logo-chumbaka.png",
+      "achievements": [
+        "Mentored teams building IoT-based Smart Cage and Aeroponics projects using sensors, Arduino Maker Uno, and real-time data tracking.",
+        "Guided participants from ideation to prototype and improved system efficiency by 12% through optimized hardware and code.",
+        "Coordinated testing/validation and supported event-day operations, workshops, and school outreach."
+      ],
+      "tech": [
+        "IoT",
+        "Arduino",
+        "Sensors",
+        "Workshops",
+        "Mentorship"
+      ]
+    },
+    {
+      "company": "FoodSaver",
+      "role": "Co-Founder",
+      "start": "May 2023",
+      "end": "Aug 2024",
+      "location": "Penang, MY · Hybrid",
+      "logo": "/assets/logo-foodsaver.jpg",
+      "logoFit": "cover",
+      "logoScale": 1.12,
+      "achievements": [
+        "Co-led development of a platform connecting surplus food sources with communities in need to reduce food waste.",
+        "Owned strategic direction and coordinated cross-functional execution to deliver product milestones.",
+        "Built partnerships and promoted sustainable consumption through community engagement."
+      ],
+      "tech": [
+        "Product Strategy",
+        "Project Management",
+        "WordPress",
+        "PHP"
+      ]
+    },
+    {
+      "company": "Black Ace Media",
+      "role": "Software Engineer",
+      "start": "Jan 2022",
+      "end": "Jul 2023",
+      "location": "Kuala Lumpur, MY",
+      "logo": "/assets/logo-blackacemedia.png",
+      "logoFit": "cover",
+      "logoScale": 1.06,
+      "achievements": [
+        "Delivered personalization engine that improved content engagement by 40% using behavioral clustering.",
+        "Implemented CI/CD workflows and observability that cut release regression incidents by 28%.",
+        "Migrated legacy marketing microsites to modern React stack with Lighthouse scores above 95."
+      ],
+      "tech": [
+        "Next.js",
+        "React",
+        "Vercel",
+        "Segment"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Go Digital Project",
+      "description": "Digital transformation initiative helping Malaysian micro-entrepreneurs and SMEs adopt e-payment systems to reduce cash usage, improve accuracy, and support sustainability goals.",
+      "tech": [
+        "Digital Transformation",
+        "E-Payment Systems",
+        "SME Enablement",
+        "Sustainability"
+      ],
+      "githubUrl": "",
+      "liveUrl": "",
+      "image": "/assets/project-godigital.jpeg"
+    },
+    {
+      "title": "Mindhive Agentic Chatbot Platform",
+      "description": "AI-first customer assistant showcasing agentic planning, product RAG search, outlet Text-to-SQL, and multi-tool execution in a single conversational flow with a polished ZUS Coffee–inspired UI.",
+      "tech": [
+        "Agentic Planning",
+        "RAG (FAISS)",
+        "Text-to-SQL",
+        "FastAPI",
+        "SQLite",
+        "DSPy"
+      ],
+      "githubUrl": "https://github.com/sitisolehahyr/mindhive-ai-chatbot-assistant",
+      "liveUrl": "",
+      "image": "/assets/project-aichatbot-mindhive.png"
+    },
+    {
+      "title": "FoodSaver",
+      "description": "AI-powered pantry assistant predicting spoilage and recommending recipes, reducing food waste for pilot families.",
+      "tech": [
+        "Next.js",
+        "Supabase",
+        "OpenAI API"
+      ],
+      "githubUrl": "https://github.com/sitisolehahyr/foodsaver",
+      "liveUrl": "https://foodsaver.site/",
+      "image": "/assets/project-foodsaver1.png",
+      "imagePosition": "top"
+    },
+    {
+      "title": "TutorConnect",
+      "description": "EdTech platform pairing students and mentors with matchmaking algorithms and collaborative lesson planning.",
+      "tech": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "githubUrl": "https://github.com/sitisolehahyr/TutorConnect-Peer-Tutoring-Network-Management-System-",
+      "liveUrl": "",
+      "image": "/assets/project-tutorconnnect.jpeg"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Bronze Medalist | Best Paper Award",
+      "issuer": "International Conference on Information Technology and Security (IC-ITECHS)",
+      "year": "2024",
+      "description": "Awarded Bronze Medal and Best Paper recognition for presenting \"Intelligent Waste Segregation System Using Convolutional Neural Networks for Deep Learning Applications.\" Designed and developed a prototype smart bin system using machine learning and TensorFlow to classify battery, glass, metal, and plastic waste, improving efficiency in waste management."
+    },
+    {
+      "title": "Gold Medalist — Waste Segregation Using Machine Learning",
+      "issuer": "Academy International Gifted Enrichment Research and Innovation Seminar (TIGERS)",
+      "year": "2024",
+      "description": "Awarded the Gold Medal for demonstrating excellence, originality, and impact in research and innovation at TIGERS 2024. Recognized for the project \"Waste Segregation Using Machine Learning\" advancing sustainable waste management."
+    },
+    {
+      "title": "2nd Place — Hult Prize Exhibition Malaysia",
+      "issuer": "Hult Prize Malaysia",
+      "year": "2024",
+      "description": "Awarded 2nd place for developing an innovative waste management system tailored for Malaysia. Completed a 3-month mentorship with Biji-Biji Initiatives and the US Embassy in Malaysia, and conducted operational site visits to strengthen the solution in line with UN SDGs."
+    },
+    {
+      "title": "Second Runner-Up — IT-Based Social Business Design Presentation",
+      "issuer": "School of Computing and Informatics",
+      "year": "2023",
+      "description": "Awarded second runner-up for the \"FoodSaver\" project aimed at reducing food waste and nourishing communities. Recognized for an innovative IT-enabled social business solution with measurable sustainability and social welfare impact."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Data Analytics",
+      "issuer": "Google",
+      "issued": "Nov 2024",
+      "logo": "/assets/google_logo.jpg",
+      "credentialUrl": "https://drive.google.com/file/d/1o2GEmDbfFF9YexiC8D-ohnXZE3OhuA8t/view"
+    },
+    {
+      "name": "Looker Data Studio Certification",
+      "issuer": "MySkill",
+      "issued": "Nov 2024",
+      "credentialId": "196227/DTA/LM/11/2024",
+      "logo": "/assets/myskillid_logo.jpg",
+      "credentialUrl": "https://drive.google.com/file/d/1oSKOo3exZovBtFMJN8nkWYItmSYhm4H9/view"
+    },
+    {
+      "name": "Alibaba Cloud Certification - Machine Learning & AI",
+      "issuer": "Alibaba Cloud",
+      "issued": "Sep 2024",
+      "expires": "Nov 2026",
+      "credentialId": "ACFW209241000149917",
+      "logo": "/assets/alibaba_cloud_computing_company_logo.jpg",
+      "credentialUrl": "https://drive.google.com/file/d/1NLqdmpTqZpdmHxmoQKD6ixZBhSWt8opK/view"
+    },
+    {
+      "name": "AWS Academy Machine Learning Foundations",
+      "issuer": "Amazon Web Services (AWS)",
+      "issued": "Jun 2024",
+      "logo": "/assets/amazon_web_services_logo.jpg",
+      "credentialUrl": "https://www.credly.com/badges/5bb26478-2f39-44cc-9e73-c98e64a5d982"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "BERNAS Logistics Sdn Bhd",
+      "role": "Vice Head of Program — Global Citizen Community Engagement Project 2024",
+      "start": "Jan 2024",
+      "end": "Apr 2024",
+      "description": "Led a community engagement initiative in Kampung KEDA Seberang Paya Kercut (Alor Setar) focused on education, environment, and sports. Coordinated logistics, outreach, and programming with stakeholders including Albukhary International University, Kedah Development Institution, BERNAS, and local government partners."
+    },
+    {
+      "organization": "Kelab Belia Prihatin Malaysia",
+      "role": "Volunteer — Hari Malaysia Community Engagement Program",
+      "start": "Sep 2023",
+      "end": "Sep 2023",
+      "description": "Selected as one of 14 student representatives for a cultural community program with Albukhary International University and Kelab Belia Padang Chapa. Supported planning and facilitation of traditional Malay games and activities to promote intercultural understanding and community unity."
+    },
+    {
+      "organization": "Chumbaka",
+      "role": "Mentor & Event Organizer — Young Innovators Challenge 2023",
+      "start": "Oct 2023",
+      "end": "Oct 2023",
+      "description": "Mentored secondary school teams on design thinking, Arduino Maker Uno, and IoT project development. Supported teams from ideation to prototype and pitching, and assisted event operations, logistics, and technical setup during workshops and school engagement sessions."
+    },
+    {
+      "organization": "Chumbaka",
+      "role": "IoT Mentor",
+      "start": "Jun 2023",
+      "end": "Sep 2023",
+      "description": "Designed and delivered hands-on IoT workshops and mentoring using Arduino Uno and sensors. Guided participants through hardware/software integration and real-world prototyping to strengthen problem-solving and practical IoT skills."
+    },
+    {
+      "organization": "PPI Malaysia",
+      "role": "Education Department Member",
+      "start": "Mar 2022",
+      "end": "Feb 2023",
+      "description": "Supported cross-country education initiatives, including appreciation events for Indonesian students in Malaysia and book donation programs. Contributed to annual programs such as EDUFAIR, EDUCIRCLE, and Career Fair through cross-team collaboration and partnership support."
+    }
+  ],
+  "contact": {
+    "formspreeEndpoint": "",
+    "availability": "Open to AI/ML engineering roles, research collaborations, and speaking engagements.",
+    "note": "Prefer email introductions? nitapradita4@gmail.com"
+  }
+}
